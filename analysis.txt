@@ -1,0 +1,14 @@
+Method                      ArrayList Runtime           LinkedList Runtime      Explanation
+
+boolean add(T element)      O(n)    this is because we are only iterating up to the n'th elelment of hte current array.                    O(...)                  ..
+T getMax()                  O(...)                      O(...)                  ..
+add(T element)              O(...)                      O(...)                  ..
+getMax()                    O(...)                      O(...)                  ..
+removeDuplicates()          O(...)                      O(...)                  ..
+reverse()                   O(...)                      O(...)                  ..
+
+
+
+
+Creidt: for reverse the following video was used as a reference: https://www.youtube.com/watch?v=NhapasNIKuQ
+Please note: significant changes were made so that our method would work accordinlgy
